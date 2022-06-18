@@ -1,2 +1,2 @@
-BOT_TOKEN = "5030827418:AAFaIRj1any0JRTWDjqvAF9fqK-cSjyNZ3Q"
-APP_URL = "https://coinspy.herokuapp.com/" + BOT_TOKEN
+BOT_TOKEN = "5413152492:AAEkpS-qopVJTr30VyoZU5Akky0ySaQedXs"
+APP_URL = "https://a-asd-a.herokuapp.com/" + BOT_TOKEN
